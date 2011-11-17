@@ -1,0 +1,12 @@
+A first chance exception of type 'Microsoft.ImageMetadata.InvalidMetadataNativeException' occurred in Microsoft.ImageMetadata.dll
+A first chance exception of type 'System.IO.IOException' occurred in mscorlib.dll
+Metadata load COM exception: -2147467259calling IImageMetadata::GetMetadata in metadata generation
+Parse errorerror calling IImageMetadata::GetMetadata in metadata generation
+A first chance exception of type 'System.UnauthorizedAccessException' occurred in mscorlib.dll
+
+
+
+The specified path, file name, or both are too long. 
+The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters
+
+C:\Users\tadiraman\AppData\Local\Temp
